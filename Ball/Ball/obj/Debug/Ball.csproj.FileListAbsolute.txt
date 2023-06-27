@@ -1,0 +1,9 @@
+D:\2151013059-TongAnNguyen\Ball\Ball\bin\Debug\Ball.exe.config
+D:\2151013059-TongAnNguyen\Ball\Ball\bin\Debug\Ball.exe
+D:\2151013059-TongAnNguyen\Ball\Ball\bin\Debug\Ball.pdb
+D:\2151013059-TongAnNguyen\Ball\Ball\obj\Debug\Ball.csprojResolveAssemblyReference.cache
+D:\2151013059-TongAnNguyen\Ball\Ball\obj\Debug\Ball.Form1.resources
+D:\2151013059-TongAnNguyen\Ball\Ball\obj\Debug\Ball.Properties.Resources.resources
+D:\2151013059-TongAnNguyen\Ball\Ball\obj\Debug\Ball.csproj.GenerateResource.Cache
+D:\2151013059-TongAnNguyen\Ball\Ball\obj\Debug\Ball.exe
+D:\2151013059-TongAnNguyen\Ball\Ball\obj\Debug\Ball.pdb
